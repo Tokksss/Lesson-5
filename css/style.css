@@ -62,3 +62,29 @@ h2 {
     margin-top: 50px;
 
 }
+
+article {
+    width: 1280px;
+    background-color: #ffff;
+    padding: 75px 138px 218px 184px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 33px;
+    color: #36413E;
+    font-size: 40px;
+    font-family: 'Noto Serif NP Hmong';
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.p1 {
+    font-size: 20px;
+    width: 958px;
+    color: #7F7F7F;
+    font-family: 'Noto Serif NP Hmong';
+    font-style: italic;
+    font-weight: lighter;
+}
