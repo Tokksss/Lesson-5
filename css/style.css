@@ -24,3 +24,41 @@ li {
     margin-right: 104px;
     color: #7F7F7F;
 }
+
+section {
+    background-color: #306B34;
+    width: 1280px;
+    margin: 0 auto;
+    padding: 174px 111px 152px 95px;
+}
+
+.img2 {
+    width: 679px;
+    height: 453px;
+    vertical-align: middle;
+}
+
+
+div {
+    display: inline-block;
+    width: 306px;
+    margin-left: 82px;
+    text-align: left;
+    height: 394px;
+    vertical-align: middle;
+}
+
+h2 {
+    font-size: 40px;
+    color: #19381F;
+}
+
+.text {
+    font-size: 20px;
+    color: #F4F4F1;
+    font-family: 'Noto Serif NP Hmong';
+    font-style: italic;
+    font-weight: lighter;
+    margin-top: 50px;
+
+}
